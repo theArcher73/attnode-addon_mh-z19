@@ -1,4 +1,4 @@
-# CO<sub>2</sub>-Sensor-Attnode mit SG112a
+# CO<sub>2</sub>-Sensor-Attnode mit MH-Z19
 A small functional CO<sub>2</sub>-sensor based on attnode v3 and MH-Z19-CO<sub>2</sub>-Sensor
 
 This pcb allows the extension of a [attno.de v3] (https://attno.de "attno.de v3") with the possibility to be operated with 5V-15V operating voltage as well as CO<sub>2</sub> measurement by means of MH-Z19.
