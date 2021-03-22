@@ -8,3 +8,5 @@ The measured values of the CO<sub>2</sub> sensor as well as the connection via L
 ![front view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_front.png) *front view*
 
 ![Rear view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_rear.png) *rear view*
+
+In the folder 3d-files are stl-Files for a tiny housing from [@seiichiro](https://twitter.com/seiichiro0185).
