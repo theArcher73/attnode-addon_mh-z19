@@ -12,7 +12,9 @@ The sensor can be purchased over the Silk Road or directly from German dealers.
 
 Special thanks to [@seiichiro0185](https://twitter.com/seiichiro0185?s=20), [@TwentySixer](https://twitter.com/Twenty_Sixer?s=20) and [@nottheedge](https://twitter.com/nottheedge?s=20) for their support.
 
-![front view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_front.png) *front view* ![Rear view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_rear.png) *rear view*
+front view | rear view
+---------- | ---------
+![front view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_front.png) | ![Rear view](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/kicad-project/img/board_rear.png) 
 
 In the folder 3d-files are stl-Files for a tiny housing from [@seiichiro](https://twitter.com/seiichiro0185).
 
