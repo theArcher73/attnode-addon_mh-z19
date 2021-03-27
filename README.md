@@ -22,4 +22,6 @@ In the folder 3d-files are stl-Files for a tiny housing from [@seiichiro](https:
  ------------------ | ----------------------------------------- | -------------------------------------
 ![MH-Z 19 front part](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/attnode-mhz19c-front.png) | ![CO<sub>2</sub>-Sensor rear part USB Micro](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/attnode-co2-back.png) | ![CO<sub>2</sub>-Sensor rear part USB Micro](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/attnode-co2-back-usbc.png)
 
+The rear parts of the enclosures for USB Micro or USB-C are planned for the use of ready-made breakout boards with USB-C or micro USB. The button for ad-hoc measurements or calibration can be glued into the housing.
+
 LORAWAN is a registered trademark of [Semtech](https://www.semtech.com/)
