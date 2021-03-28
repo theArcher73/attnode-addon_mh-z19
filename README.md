@@ -1,7 +1,8 @@
 # CO<sub>2</sub>-Sensor-Attnode mit MH-Z19
 A small functional AddOn CO<sub>2</sub>-Sensor to use with a [attno.de v3](https://attno.de) and MH-Z19-CO<sub>2</sub>-Sensor
 
-pictures from [@seiichiro0185](https://twitter.com/seiichiro0185?s=20) | &nbsp; | &nbsp;
+pictures from [@seiichiro0185](https://twitter.com/seiichiro0185?s=20) | &nbsp;
+---------------------------------------------------------------------- | --------
 ![MH-Z 19 offen](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_1.png) | &nbsp
 ![MH-Z 19](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_2.png) | ![MH-Z 19](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_3.png)
 
