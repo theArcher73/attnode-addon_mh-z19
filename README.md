@@ -1,6 +1,10 @@
 # CO<sub>2</sub>-Sensor-Attnode mit MH-Z19
 A small functional AddOn CO<sub>2</sub>-Sensor to use with a [attno.de v3](https://attno.de) and MH-Z19-CO<sub>2</sub>-Sensor
 
+pictures from [@seiichiro0185](https://twitter.com/seiichiro0185?s=20) | &nbsp; | &nbsp;
+![MH-Z 19 offen](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_1.png) | &nbsp
+![MH-Z 19](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_2.png) | ![MH-Z 19](https://github.com/theArcher73/attnode_addon_mh-z19/blob/main/3d-files/mh-z19_3.png)
+
 You can find more information and the latest firmware at [attno.de v3](https://attno.de). [@seiichiro0185](https://twitter.com/seiichiro0185?s=20) is continuously developing the software, which is why it is only linked here.
 
 This pcb allows the extension of the [attno.de v3](https://attno.de) with the possibility to be operated with 5V-15V operating voltage as well as CO<sub>2</sub> measurement by means of MH-Z19.
