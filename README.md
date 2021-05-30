@@ -31,3 +31,7 @@ In the folder 3d-files are stl-Files for a tiny housing from [@seiichiro](https:
 The rear parts of the enclosures for Micro-USB or USB-C are planned for the use of ready-made breakout boards with USB-C or micro USB. The button for ad-hoc measurements or calibration can be glued into the housing.
 
 LORAWAN is a registered trademark of [Semtech](https://www.semtech.com/)
+
+## Disclaimer
+
+The documentation of the CO<sub>2</sub>-Sensor-Attnode mit MH-Z19 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
